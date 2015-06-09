@@ -13,3 +13,5 @@ target/
 *.class
 *.apk
 *.ap_
+*.class
+build/
