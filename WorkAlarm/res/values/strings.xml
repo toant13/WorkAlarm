@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Work Alarm</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Welcome to WORKALARM</string>
     <string name="action_settings">Settings</string>
 
 </resources>
